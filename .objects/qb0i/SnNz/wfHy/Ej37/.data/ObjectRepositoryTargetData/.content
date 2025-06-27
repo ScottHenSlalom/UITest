@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="flqyIGpCO0mnGKt_bs0JCQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cloud.uipath.com/scotthenorg/roboticsops_/cicd_/pipelines" CVScreenId="a638b60e-d337-498b-a3f0-7d635f27d229" CvElementArea="645, 517, 642, 59" CvType="InputBox" DesignTimeRectangle="699, 520, 488, 55" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' /&gt;" Guid="1b60dec9-03fe-4f40-851c-01323b6dcded" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ad696db9a2d728c6d6113437bc95aeab.png" xmlns="">0ElNkaZefH0CARj1hBsBu7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
